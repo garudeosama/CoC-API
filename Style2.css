@@ -1,0 +1,173 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4A4A4A;
+}
+
+header {
+    background-color: #4A4A4A;
+    color: white;
+    text-align: center;
+    width: auto;
+    box-sizing: border-box;
+}
+
+aside {
+    background-color: #EEE6D8;
+    color: black;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: auto; /* Ajustement automatique de la hauteur */
+    width: auto;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    width: 100%;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content:center;
+}
+
+nav li {
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-right: 100px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    display: block;
+    transition: color 0.3s ease;
+}
+
+    nav a:hover {
+        color: #4CAF50; /* Couleur au survol */
+    }
+
+section {
+    display: flex;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 60px;
+    background-color: #EEE6D8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex-grow: 1;
+    border-radius: 10px; /* Ajoutez cette ligne pour arrondir les bords */
+    flex-direction: column;
+}
+
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: white;
+    margin-left : 15em;
+    font-family: monospace;
+    font-size: 3em;
+   
+}
+
+p {
+    line-height: 1.6;
+    color: #666;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+.reseau img{
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width : 50px;
+}
+
+.corps {
+    display:flex;
+    margin: 0;
+    flex-direction : column;
+}
+
+.toolbar {
+    background-color: #2C2C2C;
+    color: white;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+
+/* Styles for the logo */
+.logo {
+    padding: 20px;
+    width: 80px; /* Adjust as needed */
+    height: auto;
+}
+
+/* Styles for the language selector */
+.language-selector {
+    display: flex;
+    align-items: center;
+}
+.language-selector select {
+        padding: 5px;
+        border-radius: 5px;
+        border: none;
+        margin-right: 10px;
+}
+
+.buttons {
+    display : flex;
+    flex-direction: row-reverse;
+}
+
+.login {
+    margin-right: 20px;
+}
+
+.img_header {
+    width: 100%; /* Ajuster la largeur de l'image à 100% de la largeur de l'aside */
+    height: auto; /* Permettre à la hauteur de s'ajuster automatiquement pour conserver les proportions */
+}
+
+.heros {
+    display: flex;
+    flex-wrap: wrap; /* Permettre le retour à la ligne si nécessaire */
+    justify-content: space-around; /* Aligner les images de manière égale sur la ligne */
+    align-items: center; /* Centrer verticalement les images */
+    margin: 0 auto; /* Centrer horizontalement les images */
+    opacity:0.6;
+}
+
+.heros img {
+        width: 120px; /* Ajuster la largeur des images à 100% de la largeur du header */
+        height: auto; /* Permettre à la hauteur de s'ajuster automatiquement pour conserver les proportions */
+        max-width: 300px; /* Définir une largeur maximale pour les images */
+        margin: 10px; /* Ajouter un espace entre les images */
+       
+}
+
+.rejoins-nous {
+    font-family: monospace;
+    font-size: 2em;
+    padding: 20px;
+}

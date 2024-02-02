@@ -1,0 +1,30 @@
+/Users/berthealexis/Projects/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC
+/Users/berthealexis/Projects/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC.deps.json
+/Users/berthealexis/Projects/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC.runtimeconfig.json
+/Users/berthealexis/Projects/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC.dll
+/Users/berthealexis/Projects/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC.pdb
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.csproj.AssemblyReference.cache
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.AssemblyInfoInputs.cache
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.AssemblyInfo.cs
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.csproj.CoreCompileInputs.cache
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.dll
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/refint/Site web COC.dll
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.pdb
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.genruntimeconfig.cache
+/Users/berthealexis/Projects/Site web COC/Site web COC/obj/Debug/net7.0/ref/Site web COC.dll
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC.deps.json
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC.runtimeconfig.json
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC.dll
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/bin/Debug/net7.0/Site web COC.pdb
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.csproj.AssemblyReference.cache
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.AssemblyInfoInputs.cache
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.AssemblyInfo.cs
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.csproj.CoreCompileInputs.cache
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.dll
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/refint/Site web COC.dll
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.pdb
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/Site web COC.genruntimeconfig.cache
+/Users/berthealexis/Desktop/SI COC/Site web COC/Site web COC/obj/Debug/net7.0/ref/Site web COC.dll

@@ -1,0 +1,125 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #EEE6D8; /* Fond beige */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #4A4A4A; /* Brun */
+    color: white;
+    text-align: center;
+    padding: 1em;
+    align-items: center; /* Centrer verticalement les éléments */
+}
+
+.logo {
+    order: -1; /* Mettre l'image avant le texte */
+    padding: 20px;
+    width: 80px; /* Adjust as needed */
+    height: auto;
+    margin-right: 20px; /* Ajouter un espace entre l'image et le texte */
+}
+
+
+h1{
+    margin-left: 500px; 
+}
+
+
+
+aside {
+    background-color: #D5CABC;
+    color: black;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 100vh;
+    width: 200px;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-size: large;
+}
+nav {
+    width: 100%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    margin-bottom: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    display: block;
+    transition: color 0.3s ease;
+}
+
+        nav a:hover {
+            color: #4CAF50; /* Couleur au survol */
+        }
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #333; /* Noir */
+}
+
+.corpsHistoire {
+    display: flex;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-size: large;
+    justify-content: space-between;
+}
+
+.heros {
+    display: flex;
+    flex-wrap: wrap; /* Permettre le retour à la ligne si nécessaire */
+    justify-content: space-around; /* Aligner les images de manière égale sur la ligne */
+    align-items: center; /* Centrer verticalement les images */
+    margin: 0 auto; /* Centrer horizontalement les images */
+    opacity: 0.6;
+}
+
+    .heros img {
+        width: 120px; /* Ajuster la largeur des images à 100% de la largeur du header */
+        height: auto; /* Permettre à la hauteur de s'ajuster automatiquement pour conserver les proportions */
+        max-width: 300px; /* Définir une largeur maximale pour les images */
+        margin: 10px; /* Ajouter un espace entre les images */
+    }
+
+.rejoins-nous {
+    font-family: monospace;
+    font-size: 2em;
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+.reseau img {
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width: 50px;
+}

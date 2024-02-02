@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="stat_style.css" rel="stylesheet">
+
+    <title>Statistique Joueurs</title>
+</head>
+<body>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <header>
+        <img src="image/paysage-coc.png" alt="Clash of Clans Image">
+        <div class="text-overlay">Statistiques</div>
+    </header>
+    <div class="corpsStat">
+        <aside>
+            <h2>Menu</h2>
+            <nav>
+                <ul>
+                    <li><a href="COC2.html">Home</a></li>
+                    <li><a href="statistique_joueur.html">Statistique Joueur</a></li>
+                    <li><a href="Histoire_COC.html">Histoire</a></li>
+                    <li><a href="#">Strategy</a></li>
+                    <li><a href="#">Clans</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </aside>
+    
+        <div class="barre_donnees">
+            <barre>
+                <h2>Rechercher un Joueur</h2>
+
+                <form id="research">
+                    <label for="playerTag"></label>
+                    <input type="text" id="playerTag" name="playerTag" required="">
+                    <input type="submit" value="Recherchez">
+                </form>
+            </barre>
+
+            <div class="donnees">
+        
+                <script src="Scriptplayertag.js"></script>
+    
+                 <!--nom-->
+                    <div id="Pname"></div>
+                    <div id="level"></div>
+                 <!--clan-->
+                    <div id="nameclan"></div>
+                    <div id="tagclan"></div>
+                    <img id="logoclan"> 
+                <!--hdv-->
+                    <div id="HDV"></div>
+                    <img id="imghdv">
+        
+                <!--trophé-->
+                    <div id="trofy"></div> <img src="http://localhost/SITEWEB/troph.png">
+                <!--league-->
+                    <div id="league"></div>
+                    <img id="imgleague">
+
+                    <div class="pub">
+
+                </div>
+            </div>
+        </div>
+        <div></div>
+    </div>
+    <footer>
+        <div class="container">
+            <div class="heros">
+                <img src="image/personnages/reine1.png" alt="Image Reine skin 1">
+                <img src="image/personnages/roi1.png" alt="Image Roi skin 1">
+                <img src="image/personnages/reine2.png" alt="Image Reine skin 2">
+                <img src="image/personnages/reine3.png" alt="Image Reine skin 3">
+                <img src="image/personnages/roi2.png" alt="Image Roi skin 2">
+                <img src="image/personnages/reine4.png" alt="Image Reine skin 4">
+            </div>
+            <div class="rejoins-nous">Rejoins-nous</div>
+        </div>
+
+        <div class="reseau">
+            <a href="https://www.facebook.com/ClashofClans" target="_blank">
+                <img src="image/logo-facebook.png" alt="Facebook Icon">
+            </a>
+            <a href="https://twitter.com/" target="_blank">
+                <img src="image/logo-x.png" alt="Twitter Icon">
+            </a>
+            <a href="https://www.instagram.com/" target="_blank">
+                <img src="image/logo-instagram.png" alt="Instagram Icon">
+            </a>
+            <a href="https://www.instagram.com/" target="_blank">
+                <img src="image/discord.png" alt="Discord Icon">
+            </a>
+        </div>
+
+        <p>&copy; 2023 Clash of Clans Fan Page</p>
+    </footer>
+</body>
+</html>
